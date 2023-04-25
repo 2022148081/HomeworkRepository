@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+    <head>
+        <meta charset="utf-8">
+        <title>INTERNET-PROGRAMMING SHOP!</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Lobster&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+        <h1>Welcome!</h1>
+        <nav id = "nav" class="flexBox1">
+            <ul>
+                <li class="box"><a href = 'index.html'>MAIN PAGE</a></li>
+                <li class="box"><a href = 'login.html'>log-in!</a></li>
+                <li class="box"><a href = 'signup.html'>sign-up!</a></li>
+            </ul>
+        </nav>
+
+        <div>
+            <button type = "button" id = "button2" onclick="location.href='login.html'">log-in!</button>
+            <button type = "button" id = "button1" onclick="location.href='signup.html'">sign-up!</button>
+        </div>
+
+        <form>
+            <p id ="real" class = "bground">
+                <label>ID : 
+                    <input name = "id" type = "text" placeholder="Enter ID" autocomplete="on" autofocus/>
+                </label><br>
+
+                <label>Password : 
+                    <input name = "id" type = "text" placeholder="Enter password" autocomplete="on"/>
+                </label><br>
+
+                <button type = "button" id = "button5">LOG IN</button>
+            </p>
+        </form>
+    </body>
+</html>
