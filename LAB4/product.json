@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Not in the Mood graphic top",
+        "price" : 16000,
+        "image" : "bluet.jpg",
+        "type" : "top"
+    },
+    {
+        "name" : "off-shoulder long sleeve top",
+        "price" : 18500,
+        "image" : "whitett.jpg",
+        "type" : "top"
+    },
+    {
+        "name" : "butterfly stitch baby top",
+        "price" : 13200,
+        "image" : "whitet.jpg",
+        "type" : "top"
+    },
+    {
+        "name" : "Road Angel graphic top",
+        "price" : 0.99,
+        "image" : "blackt.jpg",
+        "type" : "top"
+    },
+    {
+        "name" : "off-shoulder twist crop top",
+        "price" : 21100,
+        "image" : "beiget.jpg",
+        "type" : "top"
+    },
+    {
+        "name" : "denim mini skirt",
+        "price" : 40200,
+        "image" : "denims.jpg",
+        "type" : "skirt"
+    },
+    {
+        "name" : "denim belt mini skirt",
+        "price" : 37100,
+        "image" : "cargos.jpg",
+        "type" : "skirt"
+    },
+    {
+        "name" : "denim vintage mini skirt",
+        "price" : 34700,
+        "image" : "vintages.jpg",
+        "type" : "skirt"
+    },
+    {
+        "name" : "solid cargo mini skirt",
+        "price" : 36900,
+        "image" : "blacks.jpg",
+        "type" : "skirt"
+    },
+    {
+        "name" : "while solid mini skirt",
+        "price" : 15800,
+        "image" : "whites.jpg",
+        "type" : "skirt"
+    },
+    {
+        "name" : "heart denim wide jeans",
+        "price" : 42200,
+        "image" : "heartp.jpg",
+        "type" : "pants"
+    },
+    {
+        "name" : "black denim cargo pants",
+        "price" : 4400,
+        "image" : "cargop.jpg",
+        "type" : "pants"
+    },
+    {
+        "name" : "pink jeans",
+        "price" : 42500,
+        "image" : "pinkp.jpg",
+        "type" : "pants"
+    },
+    {
+        "name" : "star denim jeans",
+        "price" : 42200,
+        "image" : "starp.jpg",
+        "type" : "pants"
+    },
+    {
+        "name" : "denim cargo pants",
+        "price" : 37500,
+        "image" : "denimp.jpg",
+        "type" : "pants"
+    },
+    {
+        "name" : "flower pattern dress",
+        "price" : 43470,
+        "image" : "flowero.jpg",
+        "type" : "dress"
+    },
+    {
+        "name" : "blue mini dress",
+        "price" : 21400,
+        "image" : "blueo.jpg",
+        "type" : "dress"
+    },
+    {
+        "name" : "Toile de Jouy dress",
+        "price" : 34300,
+        "image" : "antiqueo.jpg",
+        "type" : "dress"
+    },
+    {
+        "name" : "flower pattern long dress",
+        "price" : 34300,
+        "image" : "longwhiteo.jpg",
+        "type" : "dress"
+    },
+    {
+        "name" : "baby green long dress",
+        "price" : 48100,
+        "image" : "longgreeno.jpg",
+        "type" : "dress"
+    }
+  ]
